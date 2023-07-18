@@ -14,7 +14,7 @@
 
 - 🔭 A passionate Self-taught Full Stack Web developer
 - 💬 Ask me about reactjs, nextjs, nodejs, mongoDB, firebase
-- 🌱 5 months experience at CLOSER INNOVATION LABS for produts ( [BoloForms](https://www.boloforms.com/) and [Super Assistent](https://superassistant.io/) )
+- 🌱 5 months experience at CLOSER INNOVATION LABS for products ( [BoloForms](https://www.boloforms.com/) and [Super Assistent](https://superassistant.io/) )
 - 📄 I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/b1ink0/b1ink0/blob/main/Resume.pdf)
 
 <br>
