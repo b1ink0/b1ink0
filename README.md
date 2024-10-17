@@ -13,7 +13,7 @@
 <br>
 
 - 🔭 A passionate Self-taught Full Stack Web developer
-- 💬 Ask me about reactjs, nextjs, nodejs, mongoDB, firebase, php, mysql, wordpress
+- 💬 Ask me about React.js, Nest.js, Node.js, MongoDB, Firebase, PHP, MySQL, WordPress and much more!
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
